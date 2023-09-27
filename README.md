@@ -14,7 +14,7 @@ This project involves the conversion of the "Kasper - One Page Creative PSD Temp
 
 ## Demo
 
-You can view the live demo of the converted website [here](https://sayedabdelal.github.io/Template_Two.github.io/).
+You can view the live demo of the converted website [here](https://sayedabdelal.github.io/Template_Two/).
 
 ## Features
 
