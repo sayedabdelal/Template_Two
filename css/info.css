@@ -1,0 +1,34 @@
+/* notes
+
+
+* header -> not use border botton use after because line not start form ^ padding start after 
+that.
+
+* in image logo -> modefie one width or height == modefile anther
+not use 
+heigt and width.
+
+nav -> take the width comlatly by flex 1 on nav 
+    flex -> end
+
+ul -> flex
+
+ul a one active border + hover 
+
+-- media 
+
+icon name fa-bars -> appear in media modile else disapper
+    when click hover -> appear a links of it 
+
+    
+
+problem -> height less after disapper links 
+solve -> min height of contener header 
+
+
+when hover in icon bars  media mobile
+appear linke
+ postion ul a that under that 
+ less paddign
+
+*/
